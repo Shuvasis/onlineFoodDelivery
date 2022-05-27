@@ -10,8 +10,8 @@
 [+] Install Laravel Mix
     - setup js and scss
 [+] Install tailwind css
-[-] Create Home page using Html and Css
-[-] Create Cart page
+[+] Create Home page using Html and Css
+[+] Create Cart page
     - order summary section
     - empty cart section
 [-] - move routes to routes files
